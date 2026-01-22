@@ -1,0 +1,12 @@
+
+---
+
+# ✅ **requirements.txt**
+
+```txt
+ultralytics
+opencv-python
+matplotlib
+numpy
+torch
+torchvision
